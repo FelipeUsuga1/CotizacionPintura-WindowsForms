@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto6\libPunto6\bin\Debug\libPunto6.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto6\libPunto6\bin\Debug\libPunto6.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto6\libPunto6\obj\Debug\libPunto6.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto6\libPunto6\obj\Debug\libPunto6.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto6\libPunto6\obj\Debug\libPunto6.pdb

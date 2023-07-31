@@ -1,0 +1,12 @@
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\bin\Debug\Punto6.exe.config
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\bin\Debug\Punto6.exe
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\bin\Debug\Punto6.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\bin\Debug\libPunto6.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\obj\Debug\Punto6.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\obj\Debug\Punto6.form1.resources
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\obj\Debug\Punto6.Properties.Resources.resources
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\obj\Debug\Punto6.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\obj\Debug\Punto6.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\obj\Debug\Punto6.csproj.CopyComplete
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\obj\Debug\Punto6.exe
+C:\Users\usuario\Desktop\ProgSw\Taller #1\Punto6\Punto6\obj\Debug\Punto6.pdb
